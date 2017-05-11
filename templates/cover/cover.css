@@ -2,13 +2,6 @@
  * Globals
  */
 
-/* Links */
-a,
-a:focus,
-a:hover {
-  color: #fff;
-}
-
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
@@ -30,7 +23,6 @@ body {
   background-color: #fff;
 }
 body {
-  color: #fff;
   text-align: center;
 }
 
