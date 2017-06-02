@@ -22,11 +22,6 @@ The first doathon was born out of a need for an inclusive, easy event that focus
 | 12-1pm: Lunch                                  | 1-5pm: Working with occasional lightning talks   |
 | 1-6pm: Working with occasional lightning talks | 5-6pm: Wrap up!                                  |
 
-# Participant quotes & outcomes
-
-* Analyze all Jupyter notebooks mentioned in PubMed Central: A project started at the sprint that continues to gain stream on Github
-* Sonify ongoing research: Failed to take off at the event, but shipping the issue around after yields luck!
-
 # You're not alone
 
 * [Open Data Day](https://github.com/sparcopen/Open-Research-doathon)
