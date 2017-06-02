@@ -2,7 +2,7 @@
 
 # Brainstorming bits & bobs
 
-Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome attendees and helping them work together. 
+Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome attendees and helping them work together.
 
 ![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
 
@@ -20,6 +20,14 @@ Events done open.
 Get more from your event.
 You run events to educate, connect, and change the world - but the format fails you.
 Don't let the format fail you.
+
+| Doathons |
+| --- | --- |
+| &#10003;| Works with any # of attendees |
+| &#10003;| Low budget|
+| &#10003;| Remote participation|
+| &#10003;| High impact|
+| &#10003;| Great for first time event host|
 
 ## Why bother
 
