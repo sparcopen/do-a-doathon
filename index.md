@@ -91,11 +91,11 @@ Anyone!
 
 # You're not alone
 
-* Open Data Day
-* International Open Access Week
+* [Open Data Day](https://github.com/sparcopen/Open-Research-doathon)
+* International Open Access Week (maybe)
 * Ones Daniel knows
-* OpenCon Cambridge
-* OpenCon Berlin
+* [OpenCon Cambridge](https://github.com/OpenConCam/OpenConCam/issues/15)
+* [OpenCon Berlin](http://www.opencon2017.org/opencon_2017_to_be_held_in_berlin_germany_on_november_11_13)
 <!-- * [Add your event](link to a guide explaining how) -->
 
 # Now it's your turn
@@ -108,4 +108,4 @@ Anyone!
 
 * participants get most value from attendees, usually in a few minutes of breaks
 * we often don't follow up how we plan (we're too exhausted, and feel like we're done)
-* the same people attend most events. The "usual crowd". They're bored. 
+* the same people attend most events. The "usual crowd". They're bored.
