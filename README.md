@@ -43,3 +43,10 @@ Who we think we're aiming at, and what we think they think.
 * wouldn't know who to invite & to scared to do so
 * might be new to an area
 * wants to do a "normal" event
+
+# Inspired by
+
+* listen.hatnote.com
+* unconferences
+* hackathons
+* Mozilla Global Sprint & WOW's
