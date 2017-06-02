@@ -1,3 +1,5 @@
+<!-- Note: This is for talking about the project itself & encouraging contribution. Index.md describes doathons -->
+
 # Do a Doathon
 
 # Watch this space
