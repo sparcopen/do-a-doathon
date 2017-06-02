@@ -50,3 +50,5 @@ Who we think we're aiming at, and what we think they think.
 * unconferences
 * hackathons
 * Mozilla Global Sprint & WOW's
+* story circles
+* years of event organizing & attending...
