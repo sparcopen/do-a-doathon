@@ -27,13 +27,12 @@ The first doathon was born out of a need for an inclusive, easy event that focus
 
 * Analyze all Jupyter notebooks mentioned in PubMed Central: A project started at the sprint that continues to gain stream on Github
 * Sonify ongoing research: Failed to take off at the event, but shipping the issue around after yields luck!
-*
 
 # You're not alone
 
 * [Open Data Day](https://github.com/sparcopen/Open-Research-doathon)
 * International Open Access Week (maybe)
-* Ones Daniel knows
+<!-- * Ones Daniel knows -->
 * [OpenCon Cambridge](https://github.com/OpenConCam/OpenConCam/issues/15)
 * [OpenCon Berlin](http://www.opencon2017.org/opencon_2017_to_be_held_in_berlin_germany_on_november_11_13)
 <!-- * [Add your event](link to a guide explaining how) -->
