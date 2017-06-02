@@ -17,9 +17,9 @@ See [milestones & issues](https://github.com/sparcopen/do-a-doathon/issues) for 
 
 ## Goals (v.1)
 
-1 Create a version of hackathons that are collaborative, more approachable and values more contributions explicitly.
-2 Encourage events which are more action focused and that build more community.
-3 Experiment with bringing lots of ideas from hackathons, unconferences, opencon / mozilla, together under one roof.
+1. Create a version of hackathons that are collaborative, more approachable and values more contributions explicitly.
+2. Encourage events which are more action focused and that build more community.
+3. Experiment with bringing lots of ideas from hackathons, unconferences, opencon / mozilla, satellites together.
 
 ## User personas
 
