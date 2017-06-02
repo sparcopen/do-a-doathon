@@ -3,7 +3,7 @@
 # Do a Doathon
 
 ## Watch this space
-The guide isn't finished yet, we're still building it.
+The guide isn't finished yet, we're still building it. You can see a bare-bones version [here](https://github.com/sparcopen/do-a-doathon/tree/master/guide).
 
 Up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center
 
