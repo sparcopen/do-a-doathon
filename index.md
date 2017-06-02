@@ -2,15 +2,24 @@
 
 # Brainstorming bits & bobs
 
-We run events to educate, connect, and change the world.
+Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome attendees and helping them work together. 
 
 ![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
 
 &#10003;
 &#10005;
+&#9835;
+&#266A;
+&#9834;
+&#9835;
+&#127926;
+
 
 Events done right.
 Events done open.
+Get more from your event.
+You run events to educate, connect, and change the world - but the format fails you.
+Don't let the format fail you.
 
 ## Why bother
 
@@ -22,6 +31,7 @@ Events done open.
 | | Lower bars to contribution |
 | | Get a space, get attendees. Done. |
 | Engage remotely, feel the tempo |  |
+
 
 
 | Easy & Fast | Impactful | Inclusive |
@@ -71,5 +81,9 @@ Anyone!
 <!-- * [Add your event](link to a guide explaining how) -->
 
 # Now it's your turn
+
+# Participant quotes
+
+... need some of these!
 
 ...
