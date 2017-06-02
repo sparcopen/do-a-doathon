@@ -1,3 +1,0 @@
-# a header
-
-some text
