@@ -1,3 +1,3 @@
 # this is my site content!!!
 
-![/assets/doathon_london.jpg?raw=true](London Doathon)
+![https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true](London Doathon)
