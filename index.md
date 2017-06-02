@@ -6,10 +6,11 @@ Doathons bring together diverse participants to advance open, openly, quickly. T
 
 ![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
 
+## simple icons
+
 &#10003;
 &#10005;
 &#9835;
-&#266A;
 &#9834;
 &#9835;
 &#127926;
@@ -52,7 +53,7 @@ The first doathon was born out of a need for an inclusive, easy event that focus
 
 [See what we did](https://github.com/sparcopen/Open-Research-doathon/issues)
 
-### Our program
+### Our program
 
 Day 1 | Day 2 |
 | :--- | :--- |
@@ -71,7 +72,7 @@ It's an event centered around:
 
 It's also an event with a soundtrack: [listen.hatnote.com](http://listen.hatnote.com/#en,fa,ar,sa,es,de,ru,jp,zh,ko) (you can configure that).
 
-### Why do a do-a-thon? (original)
+### Why do a do-a-thon? (original)
 
 You're bored of listening to talks and other monologues, and think it's more important to use your time to engage with others and to work together on issues you care about. You want an event format that supports that and is easy to create.
 
