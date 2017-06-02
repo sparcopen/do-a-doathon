@@ -2,9 +2,11 @@
 
 # Brainstorming bits & bobs
 
-Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome attendees and helping them work together.
+Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome participants and helping them work together.
 
 ![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
+
+![Logo](https://github.com/sparcopen/do-a-doathon/blob/master/favicon.ico?raw=true)
 
 ## simple icons
 
@@ -15,12 +17,16 @@ Doathons bring together diverse participants to advance open, openly, quickly. T
 &#9835;
 &#127926;
 
+## phrases I kinda like
 
 Events done right.
 Events done open.
 Get more from your event.
 You run events to educate, connect, and change the world - but the format fails you.
 Don't let the format fail you.
+Stop guessing what your attendees want, just give them space to find it.
+
+## breaking down doathons
 
 | Doathons |
 | --- | --- |
@@ -29,6 +35,9 @@ Don't let the format fail you.
 | &#10003;| Remote participation|
 | &#10003;| High impact|
 | &#10003;| Great for first time event host|
+| &#10005;| Speakers|
+| &#10005;| Surveys|
+| &#10005;| Planning|
 
 ## Why bother
 
@@ -41,11 +50,11 @@ Don't let the format fail you.
 | | Get a space, get attendees. Done. |
 | Engage remotely, feel the tempo |  |
 
+## trifecta
 
-
-| Easy & Fast | Impactful | Inclusive |
+| Easy & Fast | Impactful | Inclusive & participatory |
 | --- | --- | --- |
-| Blurb | Blurb | Remote / name / open |
+| Confirm a room, and you're good to go. Programming that works out the box, with no speakers to arrange. Do the follow up & feedback needed on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space to find it. |
 
 ## The first Doathon: a case study
 
@@ -95,4 +104,8 @@ Anyone!
 
 ... need some of these!
 
-...
+# things conference organizers often hear / know about their events but don't pay attention to
+
+* participants get most value from attendees, usually in a few minutes of breaks
+* we often don't follow up how we plan (we're too exhausted, and feel like we're done)
+* the same people attend most events. The "usual crowd". They're bored. 
