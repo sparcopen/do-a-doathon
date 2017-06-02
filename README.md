@@ -42,3 +42,4 @@ Who we think we're aiming at, and what we think they think.
 * doesn't think they have time
 * wouldn't know who to invite & to scared to do so
 * might be new to an area
+* wants to do a "normal" event
