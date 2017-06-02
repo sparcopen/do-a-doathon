@@ -21,7 +21,6 @@ The first doathon was born out of a need for an inclusive, easy event that focus
 | 11-noon: idea pitches                          | 12-1pm: Lunch                                    |
 | 12-1pm: Lunch                                  | 1-5pm: Working with occasional lightning talks   |
 | 1-6pm: Working with occasional lightning talks | 5-6pm: Wrap up!                                  |
-|                                                |                                                  |
 
 # Participant quotes & outcomes
 
