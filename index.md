@@ -1,10 +1,10 @@
 <!-- Note: This page is intended to describe doathons & sell the idea. Selling to potential hosts here, rather than to attendees. CTA is to get people to look at the guide & host. -->
 
-# What is a Doathon?
+# Brainstorming bits & bobs
+
+We run events to educate, connect, and change the world.
 
 ![London Doathon](https://github.com/sparcopen/do-a-doathon/blob/master/assets/doathon_london.jpg?raw=true)
-
-# Brainstorming bits & bobs
 
 &#10003;
 &#10005;
@@ -62,7 +62,6 @@ You're bored of listening to talks and other monologues, and think it's more imp
 Anyone!
 
 # You're not alone
-## Doathons are happening all over
 
 * Open Data Day
 * International Open Access Week
@@ -70,7 +69,6 @@ Anyone!
 * OpenCon Cambridge
 * OpenCon Berlin
 <!-- * [Add your event](link to a guide explaining how) -->
-
 
 # Now it's your turn
 
