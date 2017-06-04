@@ -70,7 +70,8 @@ Anyone!
 
 # Participant quotes
 
-... need some of these!
+> "I came with a question in mind, and left with a lot of information crowdsourced from the other participants - new friends! - as well as an analysed dataset, the results of which I continue to use today."
+- Naomi Penfold @npscience
 
 # things conference organizers often hear / know about their events but don't pay attention to
 
