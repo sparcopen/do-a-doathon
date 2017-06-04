@@ -36,11 +36,10 @@ behaviour is not welcome.
 
 # Communication
 
-[GitHub issues](https://github.com/sparcopen/open-research-doathon/issues) are the primary way for communicating about specific aspects of this project.
+[GitHub issues](https://github.com/sparcopen/do-a-thon/issues) are the primary way for communicating about specific aspects of this project.
 
-Besides GitHub, we will be using the Twitter hashtag [#odd4r](https://twitter.com/search?vertical=default&q=odd4r). 
 
-In both contexts, you're welcome to drop in and ask questions, discuss bugs and such. 
+In both contexts, you're welcome to drop in and ask questions, discuss bugs and such.
 We expect you to follow the conduct guidelines above. Language issues
 are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
