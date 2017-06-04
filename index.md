@@ -1,8 +1,8 @@
 <!-- Note: This page is intended to describe doathons & sell the idea. Selling to potential hosts here, rather than to attendees. CTA is to get people to look at the guide & host. -->
 
-Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants(no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome participants and helping them work together.
+Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants (no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome participants and helping them work together.
 
-| Easy & Fast | Impactful | Inclusive & participatory |
+| Easy & Fast | Impactful | Inclusive & Participatory |
 | --- | --- | --- |
 | Confirm a room, and you're good to go. Programming that works out the box, with no speakers to arrange. Do the follow up & feedback needed on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space to find it. |
 
@@ -30,3 +30,15 @@ The first doathon was born out of a need for an inclusive, easy event that focus
 * [OpenCon Cambridge](https://github.com/OpenConCam/OpenConCam/issues/15)
 * [OpenCon Berlin](http://www.opencon2017.org/opencon_2017_to_be_held_in_berlin_germany_on_november_11_13)
 <!-- * [Add your event](link to a guide explaining how) -->
+
+# Like what you see?
+
+We're gathering resources to help you host a doathon, but we're not done yet! The idea is inspired by many existing initiatives - where you can get a lot of the information you need!
+
+Check them out:
+* Mozilla Working Open Workshops: learn to work openly on your project
+* Mozilla Global sprint: come together globally to work on projects
+* These excellent hackathon guides:
+ * https://hackathon.guide/
+ * https://guide.mlh.io/
+* [Unconferences](https://en.wikipedia.org/wiki/Unconference)
