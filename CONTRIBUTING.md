@@ -26,9 +26,8 @@ excludes people in socially marginalized groups.
 
 Private harassment is also unacceptable. No matter who you are, if you feel
 you have been or are being harassed or made uncomfortable by a community
-member, please contact one of the channel ops or any of the
-[CONTRIBUTING.md](https://github.com/jden/CONTRIBUTING.md) core team
-immediately. Whether you're a regular contributor or a newcomer, we care about
+member, please contact one of the organizers immediately.
+Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing
@@ -38,8 +37,7 @@ behaviour is not welcome.
 
 [GitHub issues](https://github.com/sparcopen/do-a-thon/issues) are the primary way for communicating about specific aspects of this project.
 
-
-In both contexts, you're welcome to drop in and ask questions, discuss bugs and such.
+You're welcome to drop in and ask questions, discuss bugs and such.
 We expect you to follow the conduct guidelines above. Language issues
 are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
