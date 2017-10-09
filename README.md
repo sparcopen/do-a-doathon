@@ -9,7 +9,7 @@ Up in the top right, there's a button that says 'Watch'; click it, and set yours
 
 ## Give us a hand
 
-If you love this idea, and want to help contribute, see [here](https://github.com/sparcopen/do-a-doathon/blob/master/CONTRIBUTING.md) from some guidance. We're tracking todo's in [issues](https://github.com/sparcopen/do-a-doathon/issues).
+If you love this idea, and want to help contribute, see [here](https://github.com/sparcopen/do-a-doathon/blob/master/CONTRIBUTING.md) for some guidance. We're tracking todo's in [issues](https://github.com/sparcopen/do-a-doathon/issues).
 
 ## Roadmap
 
