@@ -4,7 +4,7 @@ This takes about a morning. However, the outcome is a well-fed group of people w
 
 ## Arrivals
 
-Set about an hour for people to filter in and chat over breakfast. Give people stick on name tags, in fact, give them many! To keep things visible at distance have a tag each for:
+Set about an hour for people to filter in and chat over breakfast. Give people stick-on tags &mdash; in fact, give them many! To keep things visible at distance, have a tag each for:
 
 * First name
 * Contact (email / Twitter)
@@ -12,7 +12,7 @@ Set about an hour for people to filter in and chat over breakfast. Give people s
 
 On Twitter, ask folks joining remotely to say hello in your hashtag!
 
-Try and get folks on the wifi asap, one just one device. To save yourself crashing the internet tell them to stop using their usual syncing tools (dropbox, drive etc). They don't need it, and that's what causes most problems.
+If you sense that connectivity might be an issue, try and get folks on the WiFi as soon as possible, preferably on just one device each. To save yourself crashing the connection, tell them to stop using their usual syncing tools (dropbox, drive etc). They don't need it by default, and that's what causes most problems.
 
 ## Welcome
 
@@ -27,8 +27,8 @@ Spend as little time as possible talking at the start. Important things to touch
 
  You don't need slides for this, just use your repository.   
 
- * Give folks a feel for the room: do some quick hand raising e.g:
-  * what's your background (researcher, dev, advocate, librarian, student)
+ * Give folks a feel for the room: do some quick hand raising, e.g:
+  * what's your background (researcher, dev, advocate, librarian, student, city official)
   * how many of you are experienced around research data?
   * how many of you have not been to a hack / do-a-thon before?
   * how many of you come from outside of XYZ?
@@ -36,9 +36,9 @@ Spend as little time as possible talking at the start. Important things to touch
   * how many of you are dependent on open data?
   * who doesn't know anyone?
 
-## Getting to know each other & the topic
+## Getting to know each other & the topic
 
-Break people out into groups (anywhere from 5 - 8 works) to get to know one another & the topic. Suggested structure can include:
+Break people out into groups (anywhere from 5 - 8 usually works well) to get to know one another & the topic. Suggested structure can include:
 
 * Have introductions of people
   * What’s your name / Twitter
@@ -50,16 +50,16 @@ Break people out into groups (anywhere from 5 - 8 works) to get to know one anot
 * Introductions to the topic
   * Here just allow folks to discuss what's on their mind. Encourage new folks to speak up and ask the silly question.
 
-For these sessions, use a Google doc (or similar) to take notes on introductions & questions. Later, these can be reviewed by everyone to get a deeper idea of who's attending in the room and online. Think about providing in-room references for people to indicate where they are (e.g. number the tables).
+For these sessions, use a Google doc (or similar) to take notes on introductions & questions collaboratively. Later, these can be reviewed by everyone to get a deeper idea of who's attending in the room and online. Think about providing in-room references for people to indicate where they are (e.g. number the tables).
 
 Tweet each introduction into your hashtag.
 
 ## Take a break!
 
-Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. This is also
+Let folks take a break, and read the notes others took & think about ideas they'd like to pitch. 
 We'd suggest that this time can also be used for people to grab lunch.
 
-## Pitching
+## Pitching
 
 Keep this really simple, ideally do it over food. Two minutes, no slides, encourage people to use less. This isn't about "winning", it's about encouraging collaboration.
 
@@ -71,7 +71,7 @@ Remote participants can pitch live on Google hangouts, or, via a recorded video 
 
 In a small (30-ish) group, this seems to be easily done with little to no hassle. Folks can just shout out, or, co-ordinate via issues (preferable for remote folks).
 
-## Introducing documentation & help mechanisms
+## Introducing documentation & help mechanisms
 
 You don't want to cram too much information into your intro. Introducing things slowly helps people keep up and builds habits slowly.
 
@@ -81,11 +81,11 @@ Around 30 minutes to an hour after team formation, start to introduce the idea t
 
 Have regular document sprints (say, 1-2 min per hour). Keep them fun (e.g. change the soundscape for that documentation period). Try and get people to make or comment on issues, and of course tweet out.
 
-### How to ask for help
+### How to ask for help
 
 Simply post a new issue to Github. The advanced level of this is to connect it with the original issue!
 
-### Making sure folks got it
+### Making sure folks got it
 
 You'll need to speak to people 1:1 to see if they got this, and why they should do it. This will mean next time they're much more likely to do it!
 
