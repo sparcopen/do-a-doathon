@@ -23,7 +23,6 @@ Ideas:
 * Trying to contribute to a citizen science project as a group
 * Trying to re-run an analysis based on the original or on new data
 * Document data, metadata, standards, use or reuse
-* Make a movie/ song / other piece of art about any of the above
 
 * How to identify issues to work on
   - Get participants to come up with new ideas and post them before the event
@@ -34,3 +33,4 @@ Ideas:
 * How to communicate between on-site and remote participants
 * How to document what has been done and learned
 * When to have breaks and whether and how to structure them
+* Make a movie/ song / other piece of art about any of the above
