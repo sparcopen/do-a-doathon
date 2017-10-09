@@ -17,21 +17,21 @@ See [milestones & issues](https://github.com/sparcopen/do-a-doathon/issues) for 
 
 ## Goals (v.1)
 
-1. Create a version of hackathons that are collaborative, more approachable and values more contributions explicitly.
+1. Create a version of hackathons that are collaborative, more approachable and value more diverse contributions explicitly.
 2. Encourage events which are more action focused and that build more community.
-3. Experiment with bringing lots of ideas from hackathons, unconferences, opencon / mozilla, satellites together.
+3. Experiment with bringing lots of ideas from hackathons, unconferences, OpenCon / Mozilla, satellites together.
 
 ## User personas
 
 Who we think we're aiming at, and what we think they think.
 
-### Hackathon host
+### Experienced hackathon hosts
 
-* Loves creating things & having impact
-* is frustrated with work dying after two days
-* Probably pretty young
+* loves creating things & having impact
+* is frustrated with work dying after two intense days
+* probably rather young
 
-### Normal event host
+### Experienced host of other events
 
 * see themselves as community leader
 * wants to educate
@@ -40,15 +40,15 @@ Who we think we're aiming at, and what we think they think.
 ### Person who wouldn't normally host
 
 * doesn't think they have time
-* wouldn't know who to invite & to scared to do so
+* wouldn't know who to invite & is too scared to do so
 * might be new to an area
 * wants to do a "normal" event
 
 # Inspired by
 
-* listen.hatnote.com
 * unconferences
 * hackathons
 * Mozilla Global Sprint & WOW's
 * story circles
 * years of event organizing & attending...
+* listen.hatnote.com
