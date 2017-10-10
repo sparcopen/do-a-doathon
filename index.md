@@ -4,7 +4,7 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 
 | Easy & Fast | Impactful | Inclusive & Participatory |
 | --- | --- | --- |
-| Confirm a suitable [location](guide/location.md), and you're good to go. Programming that works out of the box, with no speakers to arrange. Do the follow up & feedback right on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space and company to explore it. |
+| Confirm a suitable [location](guide/location.md), and you're good to go. Programming that works out of the box, with no speakers to arrange. Do the documentation, initial follow up & feedback right on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space and company to explore it. |
 
 # The prototype
 
