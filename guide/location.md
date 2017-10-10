@@ -25,6 +25,7 @@ These may vary with what aspect of **do**ing you plan on stressing, but it is ad
 - sanitary facilities
 - natural light (but not too much of it if you're working with touchscreens or similar devices)
 - fresh air
+- a soundscape conducive to collaboration
 - maybe some cooking area
 - shelter in case the weather gets bad
 
