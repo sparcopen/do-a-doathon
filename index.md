@@ -1,16 +1,16 @@
-<!-- Note: This page is intended to describe doathons & sell the idea. Selling to potential hosts here, rather than to attendees. CTA is to get people to look at the guide & host. -->
+<!-- Note: This page is intended to describe doathons & sell the idea. Selling to potential hosts here, rather than to attendees. Call to action is to get people to look at the guide & host. -->
 
-Doathons bring together diverse participants to advance open, openly, quickly. The event centers around participants (no speakers needed!), and projects on Github where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters - attracting awesome participants and helping them work together.
+Doathons bring together diverse participants to advance open &mdash; openly and quickly. The event centers around participants (no speakers needed!), and projects (e.g. on Github) where collaboration, discovery and preservation are made easy. Once you've got a room booked, you're free to focus on what matters &mdash; attracting awesome participants and helping them work together.
 
 | Easy & Fast | Impactful | Inclusive & Participatory |
 | --- | --- | --- |
-| Confirm a room, and you're good to go. Programming that works out the box, with no speakers to arrange. Do the follow up & feedback needed on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space to find it. |
+| Confirm a suitable room, and you're good to go. Programming that works out of the box, with no speakers to arrange. Do the follow up & feedback needed on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space to express it or to find it out. |
 
 # The first Doathon: a case study
 
 The first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers, and events that leave no trace, we decide to focus on working openly on Github.
 
-[See what we did](https://github.com/sparcopen/Open-Research-doathon/issues)
+[See what we did](https://github.com/sparcopen/Open-Research-doathon/issues).
 
 ## Our program
 
