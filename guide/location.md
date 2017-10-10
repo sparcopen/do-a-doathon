@@ -10,7 +10,9 @@ Their relative priority may vary depending on the event in question. Below, we w
 
 # Capacity
 
-Since the doathon is focused on collaboration, capacity goes beyond head count and has to allow for interaction between attendees as well as for some degree of separation, so as to allow different groups to work on different projects.
+Since the doathon is focused on collaboration, capacity goes beyond head count and has to allow for interaction between attendees as well as for some degree of separation, so as to provide different groups with the space they need to work on different projects.
+
+Consider things like number, size and proximity of rooms, and whether you could do some or part of the event outdoors.
 
 # Accessibility
 
