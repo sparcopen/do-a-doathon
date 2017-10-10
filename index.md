@@ -6,9 +6,9 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 | --- | --- | --- |
 | Confirm a suitable [location](guide/location.md), and you're good to go. Programming that works out of the box, with no speakers to arrange. Do the follow up & feedback right on the day. | Count your impact in projects, not tweets. Let people learn and network by doing, not listening. | We can't all hack, but we can all do! Bring people together in the room, or online, through open workflows. Stop guessing what your attendees want, just give them space and company to explore it. |
 
-# The first Doathon: a case study
+# The prototype
 
-The first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers for delivering monologues, and events that leave no trace, we decided to focus on working openly on Github.
+Our first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers for delivering monologues, and events that leave no trace, we decided to focus on working openly on Github.
 
 [See what we did](https://github.com/sparcopen/Open-Research-doathon/issues).
 
