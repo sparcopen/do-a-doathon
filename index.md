@@ -8,9 +8,9 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 
 # The prototype
 
-Our first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers for delivering monologues, and events that leave no trace, we decided to focus on working openly on Github.
+[Our first doathon](https://github.com/sparcopen/open-research-doathon) was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers for delivering monologues, and events that leave no trace, we decided to focus on working openly on Github.
 
-[See what we did](https://github.com/sparcopen/Open-Research-doathon/issues).
+[See what we did](https://github.com/sparcopen/Open-Research-doathon/issues?utf8=%E2%9C%93&q=is%3Aissue).
 
 ## Our program
 
