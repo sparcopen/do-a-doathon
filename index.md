@@ -8,7 +8,7 @@ Doathons bring together diverse participants to advance open &mdash; openly and 
 
 # The first Doathon: a case study
 
-The first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers, and events that leave no trace, we decide to focus on working openly on Github.
+The first doathon was born out of a need for an inclusive, easy event that focused on getting things done. Tired of focusing on getting speakers for delivering monologues, and events that leave no trace, we decided to focus on working openly on Github.
 
 [See what we did](https://github.com/sparcopen/Open-Research-doathon/issues).
 
