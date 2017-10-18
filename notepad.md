@@ -26,7 +26,7 @@ Stop guessing what your attendees want, just give them space to find it.
 
 ## breaking down doathons
 
-| Doathons |
+| Tickbox | Doathon characteristics |
 | --- | --- |
 | &#10003;| Works with any # of attendees |
 | &#10003;| Low budget|
